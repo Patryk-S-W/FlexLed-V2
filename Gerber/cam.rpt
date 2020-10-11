@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Carl\Dropbox\My Projects\FlexLED\V2\Gerber\cam.drl
+Format: 2.3
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.3000		198
+ 2 		0.4000		43
+ 3 		0.8000		10
+ 4 		2.0000		4
